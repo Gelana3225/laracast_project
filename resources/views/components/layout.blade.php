@@ -4,8 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>slot</title>
+    @vite(['resources/css/app.css'])
 
-    <script src="http://cdn.tailwindcss.com"></script>
+   
 </head>
 <body class="h-full">
     <!-- Include this script tag or install `@tailwindplus/elements` via npm: -->
