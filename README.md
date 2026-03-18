@@ -1,6 +1,6 @@
 # Laracast Project (Laravel 12)
 
-A Laravel 12 learning project built while following Laracasts. It uses **Vite** for the frontend toolchain and **Tailwind CSS** for styling.
+A Laravel 12 web application using **Vite** for the frontend toolchain and **Tailwind CSS** for styling.
 
 ## Tech stack
 
@@ -92,4 +92,4 @@ composer test
 
 ## License
 
-This repository is intended for learning. Laravel is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Laravel is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
